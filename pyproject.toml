@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "env-logging-config"
+version = "0.0.1"
+description = ""
+authors = ["Dmitriy Gasnikov <dmitriy.gasnikov@gmail.com>"]
+
+[tool.isort]
+multi_line_output = 3
+include_trailing_comma = true
+combine_as_imports = true
